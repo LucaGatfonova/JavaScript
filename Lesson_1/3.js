@@ -1,3 +1,3 @@
 let name =  "Василий";
-let admin = name
+let admin = name;
 console.log(admin)
